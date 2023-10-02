@@ -35,5 +35,6 @@
   }
   div{
     align-items: center;
+    color: blue;
   }
 </style>
