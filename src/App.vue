@@ -32,6 +32,7 @@
     justify-content: center;
     align-items: center;
     color: red;
+    background: blue;
   }
   div{
     align-items: center;
