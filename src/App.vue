@@ -34,5 +34,6 @@
   }
   div{
     text-align: center;
+    align-items: center;
   }
 </style>
