@@ -32,7 +32,6 @@
     justify-content: center;
     align-items: center;
     color: red;
-    border: none;
   }
   div{
     align-items: center;
